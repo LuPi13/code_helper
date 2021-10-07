@@ -1,5 +1,4 @@
 # code_helper
-friends' code-helping
 
 니들 도와준거 어지간한건 다 여기있다 이말이야
 
